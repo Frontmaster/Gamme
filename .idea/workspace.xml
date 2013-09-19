@@ -65,7 +65,7 @@
     <file path="/main.css" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1378972336410" ignored="false" />
     <file path="$USER_HOME$/Downloads/yarky/html/inner-outsourcing.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1378972774869" ignored="false" />
     <file path="/game-list.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379596791751" ignored="false" />
-    <file path="/app-variables.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379586485756" ignored="false" />
+    <file path="/app-variables.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379602691314" ignored="false" />
     <file path="/typography.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379420027633" ignored="false" />
     <file path="/helper-classes.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379585695883" ignored="false" />
     <file path="/footer.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379508646390" ignored="false" />
@@ -83,9 +83,10 @@
     <file path="D:/repos/UIProto/style/right-panel.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379496527455" ignored="false" />
     <file path="D:/repos/UIProto/style/custom-buttons.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379501279937" ignored="false" />
     <file path="/custom-buttons.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379501204885" ignored="false" />
-    <file path="/gamme-list.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379596154088" ignored="false" />
+    <file path="/gamme-list.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379602147244" ignored="false" />
     <file path="/footer.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379508337304" ignored="false" />
     <file path="/header.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379510445485" ignored="false" />
+    <file path="/media-queries.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379603035787" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +106,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="game-list.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game-list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/game-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="178" selection-end="178" vertical-scroll-proportion="0.099644125">
+            <state line="4" column="45" selection-start="178" selection-end="178" vertical-scroll-proportion="-2.8">
               <folding />
             </state>
           </provider>
@@ -117,7 +118,7 @@
       <file leaf-file-name="gamme-list.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="128" selection-end="138" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,7 +127,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="93" selection-start="232" selection-end="232" vertical-scroll-proportion="-3.5">
+            <state line="5" column="93" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,7 +136,16 @@
       <file leaf-file-name="app-variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/app-variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.0">
+            <state line="56" column="46" selection-start="2956" selection-end="2956" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media-queries.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/styles/media-queries.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.048109967">
               <folding />
             </state>
           </provider>
@@ -169,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/styles/main.less" />
         <option value="$PROJECT_DIR$/styles/typography.less" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/styles/buttons.less" />
@@ -181,10 +190,11 @@
         <option value="$PROJECT_DIR$/partials/header.html" />
         <option value="$PROJECT_DIR$/styles/header.less" />
         <option value="$PROJECT_DIR$/styles/helper-classes.less" />
-        <option value="$PROJECT_DIR$/styles/app-variables.less" />
-        <option value="$PROJECT_DIR$/styles/gamme-list.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partials/game-list.html" />
+        <option value="$PROJECT_DIR$/styles/gamme-list.less" />
+        <option value="$PROJECT_DIR$/styles/app-variables.less" />
+        <option value="$PROJECT_DIR$/styles/media-queries.less" />
       </list>
     </option>
   </component>
@@ -220,7 +230,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -315,6 +324,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,8 +333,8 @@
     <property name="options.lastSelected" value="preferences.sourceCode.HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -362,7 +372,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -444,13 +454,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/helper-classes.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="45" selection-start="1798" selection-end="1798" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/buttons.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="20" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
@@ -460,9 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="127" selection-end="127" vertical-scroll-proportion="0.096">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="127" selection-end="127" vertical-scroll-proportion="0.096" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/app-mixins.less">
@@ -474,16 +475,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/layout.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/base.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="3" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/header.less">
@@ -524,30 +521,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/app-variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="93" selection-start="232" selection-end="232" vertical-scroll-proportion="-3.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+        <state line="5" column="93" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/game-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="178" selection-end="178" vertical-scroll-proportion="0.099644125">
+        <state line="4" column="45" selection-start="178" selection-end="178" vertical-scroll-proportion="-2.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/app-variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="46" selection-start="2956" selection-end="2956" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="128" selection-end="138" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/media-queries.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.048109967">
           <folding />
         </state>
       </provider>
