@@ -1,5 +1,5 @@
 {
-  "name": "node-example",
+  "name": "Gamme",
   "version": "0.0.1",
   "dependencies": {
     "connect": "1.3.x"
