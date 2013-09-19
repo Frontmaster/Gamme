@@ -21,7 +21,7 @@ After you've cloned repository you need to open shell window (or command prompt 
 
 To run server you need to issue this command from root of repository
 
-	node start.js
+	node server.js
 	
 If everything is ok you should get
 
