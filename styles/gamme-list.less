@@ -1,0 +1,38 @@
+.game-list-container {
+  background: url("../img/backgrounds/gamme-list-bg.jpg") no-repeat;
+  .background-size(100% 100%);
+  }
+
+.game-list {
+  margin: (@app-container-height / 10) auto 0;
+
+  width: 820px;
+
+  text-align: center;
+  }
+
+.game-list-item {
+  margin: 40px 0 0 0;
+
+  width: @game-list-item-width;
+  display: inline-block;
+
+  IMG {
+    padding: 7px;
+
+    background: @app-white;
+    .border-radius(10px);
+  }
+
+  FIGCAPTION {
+    margin: (@game-list-item-width / 10) 0 0 0;
+
+    font: @figcaption-font-size @figcaption-font;
+    -webkit-text-stroke: 1px @app-yellow;
+    text-shadow:  -1px -1px 0 @app-yellow,
+                   1px -1px 0 @app-yellow,
+                  -1px 1px 0 @app-yellow,
+                   1px 1px 0 @app-yellow,
+                   2px 3px @figcaption-font-shadow-color;
+  }
+}

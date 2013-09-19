@@ -1,0 +1,31 @@
+.main-header {
+  margin: 0;
+
+  height: @header-height;
+
+  .brand-gradient-yellow;
+  .box-shadow(0 1px 2px 0 @header-border-color);
+  border-bottom: 1px solid @header-border-color;
+
+  &::before {
+    .pseudoclass;
+    top: @header-height - 1px;
+    left: 114px;
+
+    width: @header-triangle-width;
+    height: @header-triangle-width / 2;
+
+    background: url("../img/app-images/header-triangle.png") no-repeat;
+  }
+}
+
+.header-container {
+  padding-right: @app-container-padding;
+  padding-left: @app-container-padding;
+
+  max-width: @app-container-width;
+  }
+
+.navbar-brand {
+  padding: 6px 0 5px 0;
+  }
