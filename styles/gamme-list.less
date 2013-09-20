@@ -23,11 +23,18 @@
   width: @game-list-item-width;
   display: inline-block;
 
+  &:hover {
+    > IMG {
+      .transform(scale(1.2));
+    }
+  }
+
   IMG {
     padding: 7px;
 
     background: @app-white;
     .border-radius(10px);
+    .transition(all .3s ease-in-out);
   }
 
   FIGCAPTION {

@@ -83,7 +83,7 @@
     <file path="D:/repos/UIProto/style/right-panel.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379496527455" ignored="false" />
     <file path="D:/repos/UIProto/style/custom-buttons.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379501279937" ignored="false" />
     <file path="/custom-buttons.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379501204885" ignored="false" />
-    <file path="/gamme-list.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379602147244" ignored="false" />
+    <file path="/gamme-list.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379662524219" ignored="false" />
     <file path="/footer.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379508337304" ignored="false" />
     <file path="/header.html" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379510445485" ignored="false" />
     <file path="/media-queries.less" changelist="8dd1bfb7-19d0-481f-881b-4444f11f676a" time="1379603035787" ignored="false" />
@@ -115,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gamme-list.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gamme-list.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="128" selection-end="138" vertical-scroll-proportion="0.0">
+            <state line="36" column="22" selection-start="582" selection-end="582" vertical-scroll-proportion="0.72164947">
               <folding />
             </state>
           </provider>
@@ -142,10 +142,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media-queries.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="media-queries.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/media-queries.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.048109967">
+            <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -192,9 +192,9 @@
         <option value="$PROJECT_DIR$/styles/helper-classes.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partials/game-list.html" />
-        <option value="$PROJECT_DIR$/styles/gamme-list.less" />
         <option value="$PROJECT_DIR$/styles/app-variables.less" />
         <option value="$PROJECT_DIR$/styles/media-queries.less" />
+        <option value="$PROJECT_DIR$/styles/gamme-list.less" />
       </list>
     </option>
   </component>
@@ -542,16 +542,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
+    <entry file="file://$PROJECT_DIR$/styles/media-queries.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="128" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/media-queries.less">
+    <entry file="file://$PROJECT_DIR$/styles/gamme-list.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.048109967">
+        <state line="36" column="22" selection-start="582" selection-end="582" vertical-scroll-proportion="0.72164947">
           <folding />
         </state>
       </provider>
